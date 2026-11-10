@@ -65,7 +65,7 @@ The head is never removed (the first node is never a duplicate), so `head` is re
 - Two-condition loop (`p and p.next`)
 
 ## Language
-Python 3 and C
+Python 3 
 
 ## Link
 https://leetcode.com/problems/remove-duplicates-from-sorted-list
